@@ -24,7 +24,7 @@ Previos employments:
 ---
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/adam-ivankovic/" target="_blank">
+    <a href="https://www.linkedin.com/in/adam-ivankovic/">
         <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://x.com/ivankovic_adam">
