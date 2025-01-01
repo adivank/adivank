@@ -11,7 +11,7 @@ Previos employments:
 
 - 2021 - 2024 [IBMiX](https://ibmix.de/en/)
 
-</br></br></br></br>
+</br></br>
 
 <p align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="32" height="32"/>
