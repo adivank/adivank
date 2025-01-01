@@ -9,6 +9,7 @@ About me:
 
 Previos employments:
 
+- 2024 - present [Cyber64](https://cyber64.com/)
 - 2021 - 2024 [IBMiX](https://ibmix.de/en/)
 
 </br></br>
