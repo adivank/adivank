@@ -1,34 +1,55 @@
-<h1 align="center"><img src="https://github.com/user-attachments/assets/8bcf89e1-ab2e-4ffc-a3c6-77b47af1f7e5" alt="adam ivankovic github welcome"/></h1>
+# Hi, I'm Adam 👋
 
-About me:
+Frontend Technical Lead with a passion for building scalable, maintainable and accessible web applications.
 
-- 👔 Currenty employed at [Cyber64](https://cyber64.com/)
-- 🔭 Looking for open source projects to contribute
-- 🌱 Learning all that I can grasp my hands on
-- 🚧 Working on my GitHub profile...
+Over the past several years I've worked on enterprise applications serving hundreds of thousands to millions of users, progressing from Frontend Developer to Frontend Technical Lead by taking ownership beyond feature development. My focus extends beyond writing code—I enjoy improving engineering organizations through better architecture, accessibility, developer experience and delivery processes.
 
-Previos employments:
+## What I do
+- 🏗️ Design scalable frontend architectures
+- ♿ Advocate for accessibility (WCAG 2.2 AA/AAA)
+- 🎨 Build reusable design systems and component libraries
+- 🚀 Improve developer experience through better tooling and workflows
+- 🔄 Design CI/CD pipelines and Git strategies
+- 👨‍🏫 Mentor developers and help engineering teams grow
+- 🐳 Build and self-host infrastructure with Docker, Proxmox and Linux
 
-- 2024 - present [Cyber64](https://cyber64.com/)
-- 2021 - 2024 [IBMiX](https://ibmix.de/en/)
+## Frontend
+- React 
+- Vue
+- Angular
+- Next.js
+- TypeScript
+- JavaScript
+- HTML
+- CSS / SCSS
+- Tailwind CSS
 
-</br></br>
+## Accessibility
 
-<p align=center>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="32" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="32" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="32" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" width="32" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="32" height="32"/>
-</p>
+Accessibility is one of my biggest passions. I'm the company-wide Accessibility Lead, responsible for defining standards, mentoring developers and QA engineers, conducting accessibility audits, and integrating automated accessibility testing using Playwright and axe-core.
 
----
+## DevOps & Infrastructure
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/adam-ivankovic/">
-        <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://x.com/ivankovic_adam">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-    </a>
-</p>
+I enjoy building reliable engineering platforms as much as building user interfaces.
+
+- Docker & Docker Compose
+- GitLab CI/CD
+- Linux
+- Proxmox
+- Hetzner
+- Nginx
+- Prometheus
+- Grafana
+- Uptime Kuma
+- Currently Exploring
+- Performance Engineering
+- Distributed Systems
+- AI-assisted Developer Tooling
+
+## Philosophy
+
+I believe great software comes from strong engineering practices—not just great code.
+
+Clean architecture, accessibility, automation, maintainability and developer experience are just as important as delivering features.
+
+"Build systems that help developers build better software."
