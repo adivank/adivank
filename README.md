@@ -26,7 +26,7 @@ Over the past several years I've worked on enterprise applications serving hundr
 
 ## Accessibility
 
-Accessibility is one of my biggest passions. I'm the company-wide Accessibility Lead, responsible for defining standards, mentoring developers and QA engineers, conducting accessibility audits, and integrating automated accessibility testing using Playwright and axe-core.
+Accessibility is one of my biggest passions. I'm the company-wide Accessibility point of contact, responsible for defining standards, mentoring developers and QA engineers, conducting accessibility audits, and integrating automated accessibility testing using Playwright and axe-core.
 
 ## DevOps & Infrastructure
 
